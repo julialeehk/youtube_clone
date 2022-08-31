@@ -1,0 +1,22 @@
+.app { 
+  max-width: 80rem;    
+}
+
+.content {
+  display: flex;
+}
+
+.details {
+  flex: 1 1 70%; 
+
+}
+
+.videos {
+  flex: 1 1 30%; 
+}
+
+@media screen and (max-width: 48rem) {
+  .content {
+    flex-direction: column;
+  }
+}

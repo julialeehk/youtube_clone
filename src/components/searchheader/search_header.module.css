@@ -1,0 +1,33 @@
+.header {
+  display: flex; 
+  height: 4rem; 
+  background-color: black;
+  padding: 0 1.2em;   
+  color: white 
+}
+
+.logo {
+  display: flex;
+  align-items: center; 
+  margin-right: 1em;  
+}   
+.input{ 
+  outline: 0;
+  flex-basis: 100%;
+  font-size: 1.4rem; 
+  
+}
+.submit_button {
+  background-color: darkgray; 
+  outline: 0;    
+}
+
+.submit_button:hover {
+  opacity: 0.8; 
+  cursor: pointer;
+}
+ 
+.button_img {
+  padding: 0.5em 0.2em; 
+  height: 100%; 
+}
