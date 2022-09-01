@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/julialeehk.github.io/youtube_clone/static/css/main.6170342f.css",
+    "main.js": "/julialeehk.github.io/youtube_clone/static/js/main.4f740f70.js",
+    "index.html": "/julialeehk.github.io/youtube_clone/index.html",
+    "main.6170342f.css.map": "/julialeehk.github.io/youtube_clone/static/css/main.6170342f.css.map",
+    "main.4f740f70.js.map": "/julialeehk.github.io/youtube_clone/static/js/main.4f740f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6170342f.css",
+    "static/js/main.4f740f70.js"
+  ]
+}
