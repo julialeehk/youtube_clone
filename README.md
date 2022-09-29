@@ -1,11 +1,12 @@
 # Youtube Clone 
 
-An imitation of the Youtube app built using React.js and Youtube Data API. You can search a video, play a video, read the description box, and also get a view of the most trending videos on the main page. 
+An imitation of the Youtube app built using React.js and Youtube Data API. <br />
+You can search a video, play a video, read the description box, and also get a view of the most trending videos on the main page. <br />
 
 # What I learned
 
-• learned how to use Youtube DATA API, Postman, RestfulAPI 
-• more practice usimg React.js framework (React Hooks) and PostCSS 
+• learned how to use Youtube DATA API, Postman, RestfulAPI <br />
+• more practice usimg React.js framework (React Hooks) and PostCSS <br />
 
 
 # What it does
