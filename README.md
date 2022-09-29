@@ -7,8 +7,8 @@ An imitation of the Youtube app built using React.js and Youtube Data API. You c
 • learned how to use Youtube DATA API, Postman, RestfulAPI 
 • more practice usimg React.js framework (React Hooks) and PostCSS 
 
-[App.webm](https://user-images.githubusercontent.com/73127031/192933827-2ccbc756-0c50-4a08-9551-a7747aed9df1.webm)
 
+(https://user-images.githubusercontent.com/73127031/192934204-27644f4b-213c-4654-9dd9-ae2fa5702aef.webm)
 
 
 
