@@ -8,8 +8,16 @@ An imitation of the Youtube app built using React.js and Youtube Data API. You c
 • more practice usimg React.js framework (React Hooks) and PostCSS 
 
 
-(https://user-images.githubusercontent.com/73127031/192934204-27644f4b-213c-4654-9dd9-ae2fa5702aef.webm)
+# What it does
 
+## Main Page - Trending Videos 
+[App (2).webm](https://user-images.githubusercontent.com/73127031/192934445-f59f7f2e-d992-44a9-829c-bdcd8937e000.webm)
+
+## Searching and Playing a Video
+[App (1).webm](https://user-images.githubusercontent.com/73127031/192934254-86f4511a-9de1-436e-b480-af1532752e0f.webm)
+
+## Going Back to Search Results  
+[App (3).webm](https://user-images.githubusercontent.com/73127031/192934862-9a408cac-98cd-47e0-9926-2c7aa3173121.webm)
 
 
 # Getting Started with Create React App
